@@ -3,7 +3,17 @@ entries:
   phonebook:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-11-27T07:12:12.770842571Z"
+    created: "2026-11-27T07:23:24.965394454Z"
+    description: Helm chart for the Phonebook application
+    digest: c9632a6ed4710253651ae389a5de238f4a31b12c2e3d2c0dec7de7db3dfd3fa9
+    name: phonebook
+    type: application
+    urls:
+    - phonebook-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-11-27T07:23:24.965216866Z"
     description: Helm chart for the Phonebook application
     digest: d63d5e4895f3be9c078ff5f8dcc64939fc19ea0b0e7d6038fe07bf54e80f3edc
     name: phonebook
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-11-27T07:12:12.770661707Z"
+    created: "2026-11-27T07:23:24.965066053Z"
     description: Helm chart for the Phonebook application
     digest: 6d61d2239caa55351e442a9eefb8e7ae15e7fe4db4bf0b259f4bfc0f2fa780c0
     name: phonebook
@@ -21,4 +31,4 @@ entries:
     urls:
     - phonebook-0.1.0.tgz
     version: 0.1.0
-generated: "2026-11-27T07:12:12.76964366Z"
+generated: "2026-11-27T07:23:24.964786088Z"
